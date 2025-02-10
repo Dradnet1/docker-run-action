@@ -1,5 +1,5 @@
 # action.yml
-name: 'Docker Run Action'
+name: 'Aditya Srivastava'
 description: 'Run a command in a new container'
 inputs:
   image:
@@ -19,7 +19,7 @@ inputs:
     description: 'Registry'
     required: false
   username:
-    description: 'Username'
+    description: 'Dradnet1'
     required: false
   password:
     description: 'Password'
